@@ -1,6 +1,3 @@
-# EDA-AUTOMATION-MISTRAL-GEMMA2
-LLM-powered EDA tool using Ollama (Mistral/Gemma2) and Gradio UI
-
 # 📊 EDA Automation using Mistral-Gemma2, Ollama, and Gradio
 
 **EDA INTEGRATION USING LLM FRAMEWORK**  
